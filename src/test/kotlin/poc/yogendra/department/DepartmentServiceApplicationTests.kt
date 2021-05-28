@@ -1,4 +1,4 @@
-package poc.yogendra.department.service
+package poc.yogendra.department
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
